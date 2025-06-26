@@ -1,0 +1,314 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 12:56:52.001	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/initialize/gorm.go:77	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 12:56:52.063	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 12:56:52.988	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/initialize/router.go:109	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 12:56:52.990	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 12:56:52.991	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/core/server.go:62	
+                  _ooOoo_
+                o8888888o
+                  88" . "88
+              	    (| -_- |)
+                  O\  =  /O
+               ____/'---'\____
+             .'  \\|     |//  '.
+            /  \\|||  :  |||//  \
+           /  _||||| -:- |||||_  \
+           |   | \\\  -  /'| |   |
+           | \_|  '\'---'//  |_/ |
+           \  .-\__ '-. -' __/-.  /
+         ___'. .'  /--.--\  '. .'___
+      ."" '<  '.___\_<|>_/___.' _> \"".
+     | | :  '- \'. ;'. _/; .'/ /  .' ; |
+     \  \ '-.   \_\_'. _.'_/_/  -' _.' /
+   ====='-.____'.___ \_____/___.-'____.-'=====
+                   '=---='
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+            佛祖保佑        永无BUG
+   
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 13:46:04.595	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:119	订单金额太小，交易: 2a00664bd93a4506fe8f507ad11e78ab5060d15746e4617890c7f2f47ba70db7，金额: 0.000001
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 13:46:04.621	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:119	订单金额太小，交易: f7bfed205b12fc1dfdef43599b76e5f8a28311b3cb19b0e5d5b3e4f84cfc5cc0，金额: 0.000002
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 13:46:04.622	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:119	订单金额太小，交易: d4f4731fd31c29b04563f0b9b76832c5d1397224cbaee5e35074a4b2cc26e716，金额: 0.000002
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 13:46:04.624	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:119	订单金额太小，交易: 6ccb7e121f5a3beac07eb893e81c24e922abab01a96c70e7ab5516fce523545b，金额: 2.470000
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 13:46:04.711	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:119	订单金额太小，交易: 91c3fd3b6e7b1b5f5947b7ea89c553a24da2bae9b03dd011bfa85977003cfe32，金额: 1.000000
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 13:47:04.573	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:119	订单金额太小，交易: 2a00664bd93a4506fe8f507ad11e78ab5060d15746e4617890c7f2f47ba70db7，金额: 0.000001
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 13:47:04.575	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:119	订单金额太小，交易: f7bfed205b12fc1dfdef43599b76e5f8a28311b3cb19b0e5d5b3e4f84cfc5cc0，金额: 0.000002
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 13:47:04.576	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:119	订单金额太小，交易: d4f4731fd31c29b04563f0b9b76832c5d1397224cbaee5e35074a4b2cc26e716，金额: 0.000002
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 13:47:04.576	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:119	订单金额太小，交易: 6ccb7e121f5a3beac07eb893e81c24e922abab01a96c70e7ab5516fce523545b，金额: 2.470000
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 13:47:04.660	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:119	订单金额太小，交易: 91c3fd3b6e7b1b5f5947b7ea89c553a24da2bae9b03dd011bfa85977003cfe32，金额: 1.000000
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 13:48:04.552	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:119	订单金额太小，交易: 2a00664bd93a4506fe8f507ad11e78ab5060d15746e4617890c7f2f47ba70db7，金额: 0.000001
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 13:48:04.553	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:119	订单金额太小，交易: f7bfed205b12fc1dfdef43599b76e5f8a28311b3cb19b0e5d5b3e4f84cfc5cc0，金额: 0.000002
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 13:48:04.554	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:119	订单金额太小，交易: d4f4731fd31c29b04563f0b9b76832c5d1397224cbaee5e35074a4b2cc26e716，金额: 0.000002
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 13:48:04.556	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:119	订单金额太小，交易: 6ccb7e121f5a3beac07eb893e81c24e922abab01a96c70e7ab5516fce523545b，金额: 2.470000
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 13:48:04.636	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:119	订单金额太小，交易: 91c3fd3b6e7b1b5f5947b7ea89c553a24da2bae9b03dd011bfa85977003cfe32，金额: 1.000000
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 13:51:22.311	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:119	订单金额太小，交易: 2a00664bd93a4506fe8f507ad11e78ab5060d15746e4617890c7f2f47ba70db7，金额: 0.000001
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 13:51:22.311	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:119	订单金额太小，交易: f7bfed205b12fc1dfdef43599b76e5f8a28311b3cb19b0e5d5b3e4f84cfc5cc0，金额: 0.000002
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 13:51:22.312	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:119	订单金额太小，交易: d4f4731fd31c29b04563f0b9b76832c5d1397224cbaee5e35074a4b2cc26e716，金额: 0.000002
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 13:51:22.312	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:119	订单金额太小，交易: 6ccb7e121f5a3beac07eb893e81c24e922abab01a96c70e7ab5516fce523545b，金额: 2.470000
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 13:54:35.848	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:119	订单金额太小，交易: 2a00664bd93a4506fe8f507ad11e78ab5060d15746e4617890c7f2f47ba70db7，金额: 0.000001
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 13:54:35.848	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:119	订单金额太小，交易: f7bfed205b12fc1dfdef43599b76e5f8a28311b3cb19b0e5d5b3e4f84cfc5cc0，金额: 0.000002
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 13:54:35.848	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:119	订单金额太小，交易: d4f4731fd31c29b04563f0b9b76832c5d1397224cbaee5e35074a4b2cc26e716，金额: 0.000002
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 13:54:35.849	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:119	订单金额太小，交易: 6ccb7e121f5a3beac07eb893e81c24e922abab01a96c70e7ab5516fce523545b，金额: 2.470000
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 13:54:36.098	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:119	订单金额太小，交易: 91c3fd3b6e7b1b5f5947b7ea89c553a24da2bae9b03dd011bfa85977003cfe32，金额: 1.000000
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 13:55:52.438	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:119	订单金额太小，交易: 2a00664bd93a4506fe8f507ad11e78ab5060d15746e4617890c7f2f47ba70db7，金额: 0.000001
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 13:55:52.438	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:119	订单金额太小，交易: f7bfed205b12fc1dfdef43599b76e5f8a28311b3cb19b0e5d5b3e4f84cfc5cc0，金额: 0.000002
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 13:55:52.438	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:119	订单金额太小，交易: d4f4731fd31c29b04563f0b9b76832c5d1397224cbaee5e35074a4b2cc26e716，金额: 0.000002
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 13:55:52.439	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:119	订单金额太小，交易: 6ccb7e121f5a3beac07eb893e81c24e922abab01a96c70e7ab5516fce523545b，金额: 2.470000
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 13:55:52.526	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:130	订单已经发送无需重复: 3dcd97db05f7829790cc6f3261f316af84faf555cf1e6aef176eabb559e10ad9
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 13:55:52.526	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:119	订单金额太小，交易: 91c3fd3b6e7b1b5f5947b7ea89c553a24da2bae9b03dd011bfa85977003cfe32，金额: 1.000000
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 13:55:52.611	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:130	订单已经发送无需重复: 9150d3582958d5d7a4dbc747482da28c743e4d456e9e2d3ee862798a5b6a9832
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:02:20.414	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:118	订单金额太小，交易: 2a00664bd93a4506fe8f507ad11e78ab5060d15746e4617890c7f2f47ba70db7，金额: 0.000001
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:02:20.415	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:118	订单金额太小，交易: f7bfed205b12fc1dfdef43599b76e5f8a28311b3cb19b0e5d5b3e4f84cfc5cc0，金额: 0.000002
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:02:20.417	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:118	订单金额太小，交易: d4f4731fd31c29b04563f0b9b76832c5d1397224cbaee5e35074a4b2cc26e716，金额: 0.000002
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:02:20.418	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:118	订单金额太小，交易: 6ccb7e121f5a3beac07eb893e81c24e922abab01a96c70e7ab5516fce523545b，金额: 2.470000
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:02:20.684	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:118	订单金额太小，交易: 91c3fd3b6e7b1b5f5947b7ea89c553a24da2bae9b03dd011bfa85977003cfe32，金额: 1.000000
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:03:50.351	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:118	订单金额太小，交易: 2a00664bd93a4506fe8f507ad11e78ab5060d15746e4617890c7f2f47ba70db7，金额: 0.000001
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:03:50.353	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:118	订单金额太小，交易: f7bfed205b12fc1dfdef43599b76e5f8a28311b3cb19b0e5d5b3e4f84cfc5cc0，金额: 0.000002
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:03:50.354	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:118	订单金额太小，交易: d4f4731fd31c29b04563f0b9b76832c5d1397224cbaee5e35074a4b2cc26e716，金额: 0.000002
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:03:50.355	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:118	订单金额太小，交易: 6ccb7e121f5a3beac07eb893e81c24e922abab01a96c70e7ab5516fce523545b，金额: 2.470000
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:03:50.637	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:151	发送（5）笔能量，订单号 2025060814033ff3
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:03:50.637	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:118	订单金额太小，交易: 91c3fd3b6e7b1b5f5947b7ea89c553a24da2bae9b03dd011bfa85977003cfe32，金额: 1.000000
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:03:50.901	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:151	发送（2）笔能量，订单号 2025060814034982
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:09:11.303	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:118	订单金额太小，交易: 2a00664bd93a4506fe8f507ad11e78ab5060d15746e4617890c7f2f47ba70db7，金额: 0.000001
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:09:11.304	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:118	订单金额太小，交易: f7bfed205b12fc1dfdef43599b76e5f8a28311b3cb19b0e5d5b3e4f84cfc5cc0，金额: 0.000002
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:09:11.304	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:118	订单金额太小，交易: d4f4731fd31c29b04563f0b9b76832c5d1397224cbaee5e35074a4b2cc26e716，金额: 0.000002
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:09:11.405	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:129	订单已经发送无需重复: 3dcd97db05f7829790cc6f3261f316af84faf555cf1e6aef176eabb559e10ad9
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:09:11.497	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:129	订单已经发送无需重复: 9150d3582958d5d7a4dbc747482da28c743e4d456e9e2d3ee862798a5b6a9832
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:10:10.952	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:118	订单金额太小，交易: 2a00664bd93a4506fe8f507ad11e78ab5060d15746e4617890c7f2f47ba70db7，金额: 0.000001
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:10:10.952	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:118	订单金额太小，交易: f7bfed205b12fc1dfdef43599b76e5f8a28311b3cb19b0e5d5b3e4f84cfc5cc0，金额: 0.000002
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:10:10.952	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:118	订单金额太小，交易: d4f4731fd31c29b04563f0b9b76832c5d1397224cbaee5e35074a4b2cc26e716，金额: 0.000002
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:10:11.038	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:129	订单已经发送无需重复: 3dcd97db05f7829790cc6f3261f316af84faf555cf1e6aef176eabb559e10ad9
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:10:11.123	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:129	订单已经发送无需重复: 9150d3582958d5d7a4dbc747482da28c743e4d456e9e2d3ee862798a5b6a9832
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:11:10.888	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:118	订单金额太小，交易: 2a00664bd93a4506fe8f507ad11e78ab5060d15746e4617890c7f2f47ba70db7，金额: 0.000001
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:11:10.889	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:118	订单金额太小，交易: f7bfed205b12fc1dfdef43599b76e5f8a28311b3cb19b0e5d5b3e4f84cfc5cc0，金额: 0.000002
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:11:10.890	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:118	订单金额太小，交易: d4f4731fd31c29b04563f0b9b76832c5d1397224cbaee5e35074a4b2cc26e716，金额: 0.000002
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:11:10.978	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:129	订单已经发送无需重复: 3dcd97db05f7829790cc6f3261f316af84faf555cf1e6aef176eabb559e10ad9
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:11:11.067	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:129	订单已经发送无需重复: 9150d3582958d5d7a4dbc747482da28c743e4d456e9e2d3ee862798a5b6a9832
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:14:21.861	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:112	订单金额太小，交易: 2a00664bd93a4506fe8f507ad11e78ab5060d15746e4617890c7f2f47ba70db7，金额: 0.000001
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:14:21.861	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:112	订单金额太小，交易: f7bfed205b12fc1dfdef43599b76e5f8a28311b3cb19b0e5d5b3e4f84cfc5cc0，金额: 0.000002
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:14:21.862	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:112	订单金额太小，交易: d4f4731fd31c29b04563f0b9b76832c5d1397224cbaee5e35074a4b2cc26e716，金额: 0.000002
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:14:21.946	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:123	订单已经发送无需重复: 3dcd97db05f7829790cc6f3261f316af84faf555cf1e6aef176eabb559e10ad9
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:14:22.028	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:123	订单已经发送无需重复: 9150d3582958d5d7a4dbc747482da28c743e4d456e9e2d3ee862798a5b6a9832
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:15:21.531	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:112	订单金额太小，交易: 2a00664bd93a4506fe8f507ad11e78ab5060d15746e4617890c7f2f47ba70db7，金额: 0.000001
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:15:21.531	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:112	订单金额太小，交易: f7bfed205b12fc1dfdef43599b76e5f8a28311b3cb19b0e5d5b3e4f84cfc5cc0，金额: 0.000002
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:15:21.531	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:112	订单金额太小，交易: d4f4731fd31c29b04563f0b9b76832c5d1397224cbaee5e35074a4b2cc26e716，金额: 0.000002
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:15:21.615	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:123	订单已经发送无需重复: 3dcd97db05f7829790cc6f3261f316af84faf555cf1e6aef176eabb559e10ad9
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:15:21.699	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:123	订单已经发送无需重复: 9150d3582958d5d7a4dbc747482da28c743e4d456e9e2d3ee862798a5b6a9832
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:16:21.485	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:112	订单金额太小，交易: 2a00664bd93a4506fe8f507ad11e78ab5060d15746e4617890c7f2f47ba70db7，金额: 0.000001
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:16:21.485	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:112	订单金额太小，交易: f7bfed205b12fc1dfdef43599b76e5f8a28311b3cb19b0e5d5b3e4f84cfc5cc0，金额: 0.000002
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:16:21.486	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:112	订单金额太小，交易: d4f4731fd31c29b04563f0b9b76832c5d1397224cbaee5e35074a4b2cc26e716，金额: 0.000002
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:16:21.568	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:123	订单已经发送无需重复: 3dcd97db05f7829790cc6f3261f316af84faf555cf1e6aef176eabb559e10ad9
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:16:21.658	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:123	订单已经发送无需重复: 9150d3582958d5d7a4dbc747482da28c743e4d456e9e2d3ee862798a5b6a9832
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:18:16.771	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:113	订单金额太小，交易: 2a00664bd93a4506fe8f507ad11e78ab5060d15746e4617890c7f2f47ba70db7，金额: 0.000001
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:18:16.796	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:113	订单金额太小，交易: f7bfed205b12fc1dfdef43599b76e5f8a28311b3cb19b0e5d5b3e4f84cfc5cc0，金额: 0.000002
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:18:16.797	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:113	订单金额太小，交易: d4f4731fd31c29b04563f0b9b76832c5d1397224cbaee5e35074a4b2cc26e716，金额: 0.000002
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:18:16.889	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:124	订单已经发送无需重复: 3dcd97db05f7829790cc6f3261f316af84faf555cf1e6aef176eabb559e10ad9
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:18:16.970	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:124	订单已经发送无需重复: 9150d3582958d5d7a4dbc747482da28c743e4d456e9e2d3ee862798a5b6a9832
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:29:45.201	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:115	订单金额太小，交易: 2a00664bd93a4506fe8f507ad11e78ab5060d15746e4617890c7f2f47ba70db7，金额: 0.000001
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:29:45.226	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:115	订单金额太小，交易: f7bfed205b12fc1dfdef43599b76e5f8a28311b3cb19b0e5d5b3e4f84cfc5cc0，金额: 0.000002
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:29:45.227	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:115	订单金额太小，交易: d4f4731fd31c29b04563f0b9b76832c5d1397224cbaee5e35074a4b2cc26e716，金额: 0.000002
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:29:45.313	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:126	订单已经发送无需重复: 3dcd97db05f7829790cc6f3261f316af84faf555cf1e6aef176eabb559e10ad9
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:29:45.398	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:126	订单已经发送无需重复: 9150d3582958d5d7a4dbc747482da28c743e4d456e9e2d3ee862798a5b6a9832
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:31:58.867	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:115	订单金额太小，交易: 2a00664bd93a4506fe8f507ad11e78ab5060d15746e4617890c7f2f47ba70db7，金额: 0.000001
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:31:58.892	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:115	订单金额太小，交易: f7bfed205b12fc1dfdef43599b76e5f8a28311b3cb19b0e5d5b3e4f84cfc5cc0，金额: 0.000002
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:31:58.893	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:115	订单金额太小，交易: d4f4731fd31c29b04563f0b9b76832c5d1397224cbaee5e35074a4b2cc26e716，金额: 0.000002
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:31:58.977	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:126	订单已经发送无需重复: 3dcd97db05f7829790cc6f3261f316af84faf555cf1e6aef176eabb559e10ad9
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:31:59.058	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:126	订单已经发送无需重复: 9150d3582958d5d7a4dbc747482da28c743e4d456e9e2d3ee862798a5b6a9832
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:33:00.331	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:115	订单金额太小，交易: 2a00664bd93a4506fe8f507ad11e78ab5060d15746e4617890c7f2f47ba70db7，金额: 0.000001
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:33:00.333	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:115	订单金额太小，交易: f7bfed205b12fc1dfdef43599b76e5f8a28311b3cb19b0e5d5b3e4f84cfc5cc0，金额: 0.000002
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:33:00.333	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:115	订单金额太小，交易: d4f4731fd31c29b04563f0b9b76832c5d1397224cbaee5e35074a4b2cc26e716，金额: 0.000002
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:33:00.583	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:148	发送（5）笔能量，订单号 202506081433BVMg
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 14:33:00.832	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:148	发送（2）笔能量，订单号 202506081433Djpp
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 15:11:27.317	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:120	需要充值trxfee地址：T9ztAmeScFbU4HwgYouQJBb5ZNapaeUDXP
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 15:18:18.920	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:118	需要充值trxfee地址：T9ztAmeScFbU4HwgYouQJBb5ZNapaeUDXP
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 15:19:17.567	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:118	需要充值trxfee地址：T9ztAmeScFbU4HwgYouQJBb5ZNapaeUDXP
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 15:20:17.569	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:118	需要充值trxfee地址：T9ztAmeScFbU4HwgYouQJBb5ZNapaeUDXP
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 15:21:17.569	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:118	需要充值trxfee地址：T9ztAmeScFbU4HwgYouQJBb5ZNapaeUDXP
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 15:22:17.573	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:118	需要充值trxfee地址：T9ztAmeScFbU4HwgYouQJBb5ZNapaeUDXP
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 15:24:56.123	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/initialize/gorm.go:77	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 15:24:56.172	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 15:24:57.186	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/initialize/router.go:109	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 15:24:57.188	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 15:24:57.189	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/core/server.go:62	
+                  _ooOoo_
+                o8888888o
+                  88" . "88
+              	    (| -_- |)
+                  O\  =  /O
+               ____/'---'\____
+             .'  \\|     |//  '.
+            /  \\|||  :  |||//  \
+           /  _||||| -:- |||||_  \
+           |   | \\\  -  /'| |   |
+           | \_|  '\'---'//  |_/ |
+           \  .-\__ '-. -' __/-.  /
+         ___'. .'  /--.--\  '. .'___
+      ."" '<  '.___\_<|>_/___.' _> \"".
+     | | :  '- \'. ;'. _/; .'/ /  .' ; |
+     \  \ '-.   \_\_'. _.'_/_/  -' _.' /
+   ====='-.____'.___ \_____/___.-'____.-'=====
+                   '=---='
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+            佛祖保佑        永无BUG
+   
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 15:31:26.213	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/initialize/gorm.go:77	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 15:31:26.256	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 15:31:27.319	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/initialize/router.go:109	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 15:31:27.320	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 15:31:27.321	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/core/server.go:62	
+                  _ooOoo_
+                o8888888o
+                  88" . "88
+              	    (| -_- |)
+                  O\  =  /O
+               ____/'---'\____
+             .'  \\|     |//  '.
+            /  \\|||  :  |||//  \
+           /  _||||| -:- |||||_  \
+           |   | \\\  -  /'| |   |
+           | \_|  '\'---'//  |_/ |
+           \  .-\__ '-. -' __/-.  /
+         ___'. .'  /--.--\  '. .'___
+      ."" '<  '.___\_<|>_/___.' _> \"".
+     | | :  '- \'. ;'. _/; .'/ /  .' ; |
+     \  \ '-.   \_\_'. _.'_/_/  -' _.' /
+   ====='-.____'.___ \_____/___.-'____.-'=====
+                   '=---='
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+            佛祖保佑        永无BUG
+   
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 15:52:08.645	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:119	需要充值trxfee地址：T9ztAmeScFbU4HwgYouQJBb5ZNapaeUDXP
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 15:53:08.183	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:119	需要充值trxfee地址：T9ztAmeScFbU4HwgYouQJBb5ZNapaeUDXP
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 15:54:08.183	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:119	需要充值trxfee地址：T9ztAmeScFbU4HwgYouQJBb5ZNapaeUDXP
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 15:55:08.182	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:119	需要充值trxfee地址：T9ztAmeScFbU4HwgYouQJBb5ZNapaeUDXP
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 15:56:08.181	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:119	需要充值trxfee地址：T9ztAmeScFbU4HwgYouQJBb5ZNapaeUDXP
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 16:22:32.032	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:119	需要充值trxfee地址：T9ztAmeScFbU4HwgYouQJBb5ZNapaeUDXP
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 16:28:09.840	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:119	需要充值trxfee地址：T9ztAmeScFbU4HwgYouQJBb5ZNapaeUDXP
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 16:28:09.841	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:123	telegram通知：T9ztAmeScFbU4HwgYouQJBb5ZNapaeUDXP
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 16:28:09.842	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:138	主地址進行地址充值：T9ztAmeScFbU4HwgYouQJBb5ZNapaeUDXP
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 16:31:11.079	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:120	需要充值trxfee地址：T9ztAmeScFbU4HwgYouQJBb5ZNapaeUDXP
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 16:31:11.080	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:124	telegram通知：T9ztAmeScFbU4HwgYouQJBb5ZNapaeUDXP
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 16:31:11.081	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:139	主地址進行地址充值：T9ztAmeScFbU4HwgYouQJBb5ZNapaeUDXP
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 16:45:08.237	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:157	订单金额太小，交易: 2a00664bd93a4506fe8f507ad11e78ab5060d15746e4617890c7f2f47ba70db7，金额: 0.000001
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 16:45:08.264	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:157	订单金额太小，交易: f7bfed205b12fc1dfdef43599b76e5f8a28311b3cb19b0e5d5b3e4f84cfc5cc0，金额: 0.000002
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 16:45:08.265	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:157	订单金额太小，交易: d4f4731fd31c29b04563f0b9b76832c5d1397224cbaee5e35074a4b2cc26e716，金额: 0.000002
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 16:45:08.547	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:201	发送（5）笔能量，订单号 202506081645BVMg
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 16:45:08.819	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:201	发送（2）笔能量，订单号 202506081645Djpp
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 16:46:07.242	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:157	订单金额太小，交易: 2a00664bd93a4506fe8f507ad11e78ab5060d15746e4617890c7f2f47ba70db7，金额: 0.000001
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 16:46:07.243	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:157	订单金额太小，交易: f7bfed205b12fc1dfdef43599b76e5f8a28311b3cb19b0e5d5b3e4f84cfc5cc0，金额: 0.000002
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 16:46:07.243	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:157	订单金额太小，交易: d4f4731fd31c29b04563f0b9b76832c5d1397224cbaee5e35074a4b2cc26e716，金额: 0.000002
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 16:46:07.326	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:168	订单已经发送无需重复: 3dcd97db05f7829790cc6f3261f316af84faf555cf1e6aef176eabb559e10ad9
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 16:46:07.408	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:168	订单已经发送无需重复: 9150d3582958d5d7a4dbc747482da28c743e4d456e9e2d3ee862798a5b6a9832
+

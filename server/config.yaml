@@ -1,0 +1,160 @@
+aliyun-oss:
+    endpoint: yourEndpoint
+    access-key-id: yourAccessKeyId
+    access-key-secret: yourAccessKeySecret
+    bucket-name: yourBucketName
+    bucket-url: yourBucketUrl
+    base-path: yourBasePath
+autocode:
+    web: web/src
+    root: C:\Users\Administrator\gin-vue-admin
+    server: server
+    module: github.com/flipped-aurora/gin-vue-admin/server
+    ai-path: ""
+aws-s3:
+    bucket: xxxxx-10005608
+    region: ap-shanghai
+    endpoint: ""
+    secret-id: your-secret-id
+    secret-key: your-secret-key
+    base-url: https://gin.vue.admin
+    path-prefix: github.com/flipped-aurora/gin-vue-admin/server
+    s3-force-path-style: false
+    disable-ssl: false
+captcha:
+    key-long: 6
+    img-width: 240
+    img-height: 80
+    open-captcha: 0
+    open-captcha-timeout: 3600
+cloudflare-r2:
+    bucket: xxxx0bucket
+    base-url: https://gin.vue.admin.com
+    path: uploads
+    account-id: xxx_account_id
+    access-key-id: xxx_key_id
+    secret-access-key: xxx_secret_key
+cors:
+    mode: allow-all
+    whitelist:
+        - allow-origin: meacoin168.com
+          allow-methods: POST, GET
+          allow-headers: Content-Type,AccessToken,X-CSRF-Token, Authorization, Token,X-Token,X-User-Id
+          expose-headers: Content-Length, Access-Control-Allow-Origin, Access-Control-Allow-Headers, Content-Type
+          allow-credentials: true
+        - allow-origin: hotcoin168.com
+          allow-methods: GET, POST
+          allow-headers: content-type
+          expose-headers: Content-Length, Access-Control-Allow-Origin, Access-Control-Allow-Headers, Content-Type
+          allow-credentials: true
+db-list:
+    - type: ""
+      alias-name: ""
+      prefix: ""
+      port: ""
+      config: ""
+      db-name: ""
+      username: ""
+      password: ""
+      path: ""
+      engine: ""
+      log-mode: ""
+      max-idle-conns: 10
+      max-open-conns: 100
+      singular: false
+      log-zap: false
+      disable: true
+disk-list:
+    - mount-point: /
+email:
+    to: xxx@qq.com
+    from: xxx@163.com
+    host: smtp.163.com
+    secret: xxx
+    nickname: test
+    port: 465
+    is-ssl: true
+excel:
+    dir: ./resource/excel/
+
+jwt:
+    signing-key: 4ac87200-a4e8-4ce7-be9d-05ee8166801e
+    expires-time: 7d
+    buffer-time: 1d
+    issuer: qmPlus
+local:
+    path: uploads/file
+    store-path: uploads/file
+
+mysql:
+    prefix: ""
+    port: "6033"
+    config: charset=utf8mb4&parseTime=True&loc=Local
+    db-name: gva
+    username: root
+    password: "12345678901234567890"
+    path: 156.251.17.226
+    engine: ""
+    log-mode: error
+    max-idle-conns: 10
+    max-open-conns: 100
+    singular: false
+    log-zap: false
+
+
+redis:
+    name: ""
+    addr: 8.219.148.240:9736
+    password: ""
+    db: 0
+    useCluster: false
+    clusterAddrs:
+        - 172.21.0.3:7000
+        - 172.21.0.4:7001
+        - 172.21.0.2:7002
+redis-list:
+    - name: cache
+      addr: 127.0.0.1:6379
+      password: ""
+      db: 0
+      useCluster: false
+      clusterAddrs:
+        - 172.21.0.3:7000
+        - 172.21.0.4:7001
+        - 172.21.0.2:7002
+
+system:
+    db-type: mysql
+    oss-type: local
+    router-prefix: ""
+    addr: 8888
+    iplimit-count: 15000
+    iplimit-time: 3600
+    use-multipoint: false
+    use-redis: false
+    use-mongo: false
+    use-strict-auth: false
+    trongrid-keys: 292ad214-211d-49e3-bd1b-21d7eba72eca,fdd6ae9e-3d51-4d45-9dce-c4a671d52cd2,b4c4e001-5433-4756-b73f-39424cbd8b9f,7767612f-6bd7-4075-a192-d112e93d91f7,93f60f09-cb5f-472d-89cc-3308d5a1a108,51e31d76-6788-4efe-8220-eb38199b8349,50e14e55-a31d-417f-92d0-b8b368623a39,5f4e9a7c-3a44-4f1c-b993-04369b819adb,bf6530d0-7d6a-4184-a12e-832237c514ca,2d2bc47b-b105-4835-99b6-cae787bc77e0,efa5f970-0274-4bb4-85e3-ff077ef9fbe8,3317d5e6-6f5c-4d00-bed1-18ddbcaef111,e13cf928-4640-4c3e-b51e-1f2cc620142d,71fdb861-35d6-4a66-a229-b39fea82f1f5,9fc9b081-8311-4934-83f2-7bfa2c6f7d9b,994ad0c0-1909-41e7-b694-cf679f36f49a,5a6dc278-47f0-4af6-ab59-258aa6c369cd,eb689b28-9d77-4a81-9f43-6762c3430922,3eacc5ac-435e-43e5-a1ab-2b57b7c60cbd,c4633579-f9ad-49bf-8e81-6ce3c3a9a22c,2e71622b-37b9-45bd-9656-99a305baaa2c,18b3dea4-55ec-424f-b3c1-ffdd9264e00d,445a6d39-2ceb-4e41-98d2-17f2a9d19fcf,de0daace-7ea6-40c3-bd9f-3851cffec9e4,7fb4edd3-7639-4122-a953-9f62a24b448a,150debee-e301-4de8-b3e8-bac5dc523c48,bcbf4b0f-0fcd-4ccf-9ab0-4e2e2defa134,4f5a5d53-6068-4b5e-9626-8341aae0b786,a65ebb3f-c2c9-4a34-8398-750a37f881c9,1dc80f45-b904-403c-908a-605e734edb2a,e404a3bc-4b38-4f26-a072-a3983469c904,460edcb5-c04c-4cae-aee2-1109a9997637,5d4f24e4-5179-4112-afff-0cf8b0c05f22,3af5a6eb-4fa5-4c83-950a-190abcf8441b,afef65bc-fa3e-470b-9f52-75a80e526960,31890b5a-5bdd-4bf2-b8d2-3480ed844936,bd0b7cee-a6a9-4852-a3a7-0f5c0dcc99e9,6b3e2c85-47b9-4bf7-a085-a9395f769f6f,c0033bdb-2559-44d1-9bff-6d6302bf38f8,0b47efc0-3676-40f3-8956-61e72bdf8bd9,770e1dd5-ed47-47e0-96be-8e7fbdcf519d,22d0ee3d-a704-4aaf-aca2-8c14923df078,e3e608d8-afbb-40f0-9e83-535a8c45c86e,6fc24da6-b523-4065-a82a-ff5184ebd911,94f4f69a-df0b-4457-8387-fb05e4ab13c0,53b94524-fed9-4408-9284-1be9d69ca612,6ba8f6d9-05ee-4929-9a3e-6f22c87398ff,b3d2312e-a8ff-48bd-8f37-a2c88e26e5ea,b5edbaf5-512a-4f98-812b-90874d84f408,c93ab5fd-c7c9-47de-9e6b-ec691258e9cd,b3e88b34-5c2c-4037-b482-6006adf525c3,eb491cb3-f3f9-4ed5-8747-b92d62fc0140,114562b1-3fe3-4767-8068-e59c23918216,601153ab-56b5-4ce7-8e0f-87999b1f0eff,1a530cc2-069f-49e8-96db-5b7a72d90a05,20fe3917-f3ea-4d7e-9acc-f5bca2ba36c0,225836c2-7596-495d-b289-b42b6b1ee22a,bc9a075d-bb02-403e-807b-e295dda6c04b,d68bfb64-b169-4551-bc86-6f1290d80e40,f8c4d1c6-1d4d-4137-9805-617391392026,7bd791b4-6353-48ca-b2ea-ae135ab4ff71,6057e297-8627-489a-9483-9b1aa56fa45c,d25c9988-87b8-4220-ae6c-c1c90af4800f,4ef35d3c-ff3d-446d-93cb-f468b7929536,ea365cb4-ec7e-4b7d-9765-aa86c605713a,8f9dc36a-b1ce-4cae-8809-506ebe9e2442,3101945e-c2ae-4f1b-9515-049b10109cf1,a52eb63e-0c74-4fa8-87ca-b27d7565a7fe,c00670c5-1950-4baf-b70e-38097ad780a2,2f98d95c-a3c6-465b-9f01-39a444834d95,4b623027-61ab-4080-ac04-8abdec85c4e6,765a6fbb-c8d2-470b-870a-e430ce6b01e9,23a83c06-6768-43fa-8cea-8dd4ca85dad1,a40497ae-c5e6-444e-a761-d728861df4c8,6c2e72e2-8b4b-48b8-8421-eb6162dc4b46,3c6b842d-f663-4adf-b112-2e081c3f27c2,7e695f38-0ef8-42f7-bfb2-9440d86847a8,7c971914-c968-475f-a09c-c669b6e42c06,bcc4b300-543b-4be7-a31e-9795e73b8bbe,70f9c166-7b43-471e-9303-1fa999f509a7,118c154f-a7b7-44a5-91e5-90d14b9577c9,d95b6f11-bc90-4b5f-ac41-51bef88ad663,7911077b-aa1b-4324-97e2-6568ecb25c0e,15bf2e55-4452-4e98-8542-5064bcd3dcfe,9bfc67ac-6b69-44b4-ae6d-54967787809f,75ae163f-88a4-4d91-9eee-6a2fc101cb5f,267724a3-8433-49ab-a649-af92a2ba822d,fbf1b8ad-2116-42c4-a38d-0d708f29d63c,2e7be279-ea85-46f4-b649-7ba07da0d93e,0fcf8292-e78b-41e9-a58b-ae6e2d060c13,180d1422-90f8-4d02-b2af-fe383a7ce268,5e142125-123a-4da3-a00b-2204532d232d,85243e08-ecd7-45a1-8743-86c654a85211,17130cc3-d94d-441f-a5cc-e318b70b3171,a977aea7-6a2d-4cf3-bae1-c959021e8b91,c042cc07-88cc-4f2b-84a3-efd30777cfcc,ce25bf3c-a4a9-4e5f-95b9-cdb4e4c2fa9c,050d000f-7ad5-454c-9bca-39cb7cde035e,60b61a1a-0d90-4d41-8e2b-8aee078c6aca,0af73e2f-9be6-43b7-a429-62ee7ded229b,0fe7eec5-6a3d-445a-b63e-1bf75d8c3196,5d72ba9d-29db-456e-9290-87fd7948aa87,e89cf30b-069d-455c-9444-cb3655b6f905,26c96236-10d1-4ec4-bf79-542ad681c315,d63babfe-445f-4c69-8e5c-b907f8ae029b,d3716060-bd4b-41c7-a0d9-0ff8178e2367,1f1883a4-1810-4ccc-aeda-ef27cb467526,a0a8934f-0656-4d42-b3b2-4a6d7aa5fddf,20eb4933-cc54-4dca-a8e0-a7e302b7997f,7080f99a-a069-4c37-bb06-674f4a1cc7ac,710c5253-e7a7-4032-b097-8c3403c55ec3,e921dd94-2d40-4a8c-b630-2e2350de7830,8d5dd776-f1db-4abe-9049-4b23e6d88c71,897c61f8-e85f-4282-8fc6-8a8a7f2f3847,7c6d377d-70c8-48e8-b07c-23829dbbb928,043cd984-e0e6-4016-81b2-d6b4b8c89644,f4118880-4c04-4675-831d-38da16192ee7,d10f38f5-6c27-47aa-94bf-f85e9ea69db9,54fd444b-a149-4ff4-8a4c-3c564ed98f6e,3d4b6ebd-c111-45ce-bade-b016e4d1eaf9,720f212f-78fe-4e9e-b244-79fc169867e1,986769e1-bd9d-48d9-862b-0ac7c1b2b108,327231d8-fc70-40ff-9723-0d258731f560,e54b61a8-b28c-4811-a71c-365b68953238,74a7b5ea-c1f2-475f-8a03-ce2e80922aad,0ebdd3e9-d153-4f42-a987-f027c8737ca7,2e81d257-d742-4c96-be75-baf131c1e12f,bebe7987-c941-4dff-95d1-b396b1ce81a5,87de4692-0464-4ba4-910c-b9d160d7e2c2,6aee69ed-02bc-4839-854c-3e2e1bc73680,db9c3af7-9548-42c4-ad2a-83b056b895c1,15a26b20-8fcf-45a2-a9bc-6ed3ecd00822,da724852-53de-435b-b77a-20770f5491d8,40c7c7bf-6816-436d-acc9-58ceef9f4bfb,b23f5b61-3368-4002-94d3-70602571ffb6,a78647e3-bb80-4655-8c70-a89e8f23ca6b,d6e84e55-69d3-4035-bacf-7f84fa487c14,11ab7729-05ca-45b0-8c26-9632ce3ed3f4,3b766c89-9192-4b8e-8e13-756da7a43991,e6b8b248-2ce5-4bd6-ad31-51960b97d575,4d410e56-02c5-4180-be9f-99f853efe54e,0a197976-6a7b-49a4-91ca-138467d4dc82,812f0bf0-8508-4f30-967b-7794e8e5ebd7,b815c662-6d1b-40b3-b9d4-fae8031de8dc,ba950e04-c2b6-429c-86f7-1924ab5bb8a0,a700e0d9-5693-481d-bc5a-5a4104e63096,0624635b-5725-4caa-b426-bf8490cef1e0
+    tron-full-node: https://api.trongrid.io #tron节点
+    limit-transfer-amount: 4
+    max-trx-amount: 10
+    deposit-trx-amount: 1.01
+    trxfee-base-url: https://trxfee.io/
+    trxfee-apiKey: "CC4F20ACDB45AFA10A22D6BDA2AE9F3F"
+    trxfee-apiSecret: "99144B2AC7ED7F73ECFF59144D46E321F1DC83B373DE2FF6A367423F4CF61FB5"
+    bot-token: 7624843313:AAE6-RkYcvsyq0GE9baJCVpYwUnd1py1rS0 #telegram token
+    chat-id: 7347235462 #通知的人chat_id
+    master-address: TJxE56ZJLitumu8DgsvpfdKcp1mJ3WAfjC #主地址
+    master-pk: 714f3c0d9314bfb62c031913ceaa4e668b947d231973d2d49c3d8fd731e82362 #主地址私钥
+
+
+zap:
+    level: info
+    prefix: '[github.com/flipped-aurora/gin-vue-admin/server]'
+    format: console
+    director: log
+    encode-level: LowercaseColorLevelEncoder
+    stacktrace-key: stacktrace
+    show-line: true
+    log-in-console: true
+    retention-day: -1

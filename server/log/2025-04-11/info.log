@@ -1,0 +1,18 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2025-04-11 14:41:02.893	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-04-11 14:41:10.456	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/initialize/plugin.go:10	项目暂未初始化，无法安装插件，初始化后重启项目即可完成插件安装
+[github.com/flipped-aurora/gin-vue-admin/server]2025-04-11 14:41:10.456	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/initialize/router.go:109	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-04-11 14:41:10.457	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2025-04-11 14:46:55.484	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/initialize/gorm.go:77	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-04-11 14:46:55.527	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-04-11 14:49:01.860	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/initialize/gorm.go:77	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-04-11 14:49:01.934	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-04-11 14:49:07.360	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/initialize/router.go:109	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-04-11 14:49:07.361	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2025-04-11 15:09:46.980	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/initialize/gorm.go:77	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-04-11 15:09:47.026	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-04-11 15:09:52.615	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/initialize/router.go:109	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-04-11 15:09:53.084	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/core/server.go:38	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2025-04-11 15:22:01.964	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/initialize/gorm.go:77	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-04-11 15:22:02.026	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2025-04-11 15:22:07.911	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/initialize/router.go:109	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2025-04-11 15:22:07.912	[34minfo[0m	C:/Users/Administrator/Desktop/shiled-platform/server/core/server.go:38	server run success on 	{"address": ":8888"}

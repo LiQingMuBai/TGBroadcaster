@@ -1,0 +1,40 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 13:46:04.710	[31merror[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:125	获取数据订单失败: record not found
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 13:46:04.789	[31merror[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:125	获取数据订单失败: record not found
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 13:47:04.659	[31merror[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:125	获取数据订单失败: record not found
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 13:47:04.739	[31merror[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:125	获取数据订单失败: record not found
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 13:48:04.636	[31merror[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:125	获取数据订单失败: record not found
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 13:48:04.716	[31merror[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:125	获取数据订单失败: record not found
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 15:11:27.291	[31merror[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:116	需要充值trxfee余额不够，余额：500.000000
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 15:18:18.919	[31merror[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:116	需要充值trxfee余额不够，余额：500.000000，最低余额500.000000
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 15:19:17.566	[31merror[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:116	需要充值trxfee余额不够，余额：500.000000，最低余额500.000000
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 15:20:17.568	[31merror[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:116	需要充值trxfee余额不够，余额：500.000000，最低余额500.000000
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 15:21:17.568	[31merror[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:116	需要充值trxfee余额不够，余额：500.000000，最低余额500.000000
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 15:22:17.572	[31merror[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:116	需要充值trxfee余额不够，余额：500.000000，最低余额500.000000
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 15:52:08.620	[31merror[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:117	需要充值trxfee余额不够，余额：500.000000，最低余额500.000000
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 15:53:08.182	[31merror[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:117	需要充值trxfee余额不够，余额：500.000000，最低余额500.000000
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 15:54:08.182	[31merror[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:117	需要充值trxfee余额不够，余额：500.000000，最低余额500.000000
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 15:55:08.181	[31merror[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:117	需要充值trxfee余额不够，余额：500.000000，最低余额500.000000
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 15:56:08.180	[31merror[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:117	需要充值trxfee余额不够，余额：500.000000，最低余额500.000000
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 16:22:32.006	[31merror[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:117	需要充值trxfee余额不够，余额：500.000000，最低余额500.000000
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 16:28:09.815	[31merror[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:117	需要充值trxfee余额不够，余额：500.000000，最低余额500.000000
+
+[github.com/flipped-aurora/gin-vue-admin/server]2025-06-08 16:31:11.077	[31merror[0m	C:/Users/Administrator/Desktop/shiled-platform/server/cmd/agent1/main.go:118	需要充值trxfee余额不够，余额：500.000000，最低余额500.000000
+

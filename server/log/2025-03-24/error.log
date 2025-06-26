@@ -1,0 +1,2 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-24 00:05:35.995	[31merror[0m	C:/Users/Administrator/gin-vue-admin/server/api/v1/system/sys_user.go:454	获取失败!	{"error": "invalid connection"}
+[github.com/flipped-aurora/gin-vue-admin/server]2025-03-24 00:05:35.996	[31merror[0m	C:/Users/Administrator/gin-vue-admin/server/api/v1/system/sys_menu.go:29	获取失败!	{"error": "invalid connection"}
