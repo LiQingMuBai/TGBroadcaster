@@ -10,7 +10,6 @@ require (
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/spf13/viper v1.19.0
 	github.com/stretchr/testify v1.10.0
-	go.uber.org/automaxprocs v1.6.0
 	go.uber.org/zap v1.27.0
 	golang.org/x/sync v0.14.0
 	gorm.io/driver/mysql v1.5.7
@@ -20,6 +19,7 @@ require (
 require (
 	github.com/gotd/td v0.125.0
 	github.com/patrickmn/go-cache v2.1.0+incompatible
+	github.com/sashabaranov/go-openai v1.40.3
 	gopkg.in/yaml.v3 v3.0.1
 )
 

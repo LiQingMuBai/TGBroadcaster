@@ -12,6 +12,9 @@ zap:
 api_id: 123456               # 从 https://my.telegram.org/apps 获取
 api_hash: "abcdef1234567890" # 从 https://my.telegram.org/apps 获取
 phone_number: "+1234567890"  # 你的Telegram账号电话号码
+openai_key: "sk-your-openai-key"
+min_messages: 20  # 20条消息触发回复
+cooldown: 30      # 30分钟冷却时间
 
 message_groups:
   - group_ids:
@@ -36,3 +39,5 @@ message_groups:
     daily_schedule:
       - "10:30"
       - "16:30"
+
+
