@@ -1,6 +1,6 @@
 zap:
   level: info
-  prefix: '[boost-data]'
+  prefix: '[broadcaster-data]'
   format: console
   director: log
   encode-level: LowercaseColorLevelEncoder
@@ -9,8 +9,8 @@ zap:
   log-in-console: true
   retention-day: -1
 
-api_id: 29868054               # 从 https://my.telegram.org/apps 获取
-api_hash: "be4dea8d000d41e31794d2c15c13996e" # 从 https://my.telegram.org/apps 获取
+api_id: 123456               # 从 https://my.telegram.org/apps 获取
+api_hash:  12321321321   # 从 https://my.telegram.org/apps 获取
 phone_number: "+1234567890"  # 你的Telegram账号电话号码
 openai_key: "sk-your-openai-key"
 min_messages: 20  # 20条消息触发回复
