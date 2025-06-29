@@ -9,36 +9,28 @@ zap:
   log-in-console: true
   retention-day: -1
 
-api_id: 123456               # 从 https://my.telegram.org/apps 获取
-api_hash:  12321321321   # 从 https://my.telegram.org/apps 获取
-phone_number: "+1234567890"  # 你的Telegram账号电话号码
+api_id: 29868054               # 从 https://my.telegram.org/apps 获取
+api_hash: "be4dea8d000d41e31794d2c15c13996e" # 从 https://my.telegram.org/apps 获取
+phone_number: "+6585957301"  # 你的Telegram账号电话号码
 openai_key: "sk-your-openai-key"
 min_messages: 20  # 20条消息触发回复
 cooldown: 30      # 30分钟冷却时间
 
 message_groups:
   - group_ids:
-      - 1234567890  # 群组1 ID (可以是Channel ID或Supergroup ID)
-      - 2345678901  # 群组2 ID
+      - -4918738673  # 群组1 ID (可以是Channel ID或Supergroup ID)
+
     messages:
       - "这是第一条预设消息"
       - "这是第二条预设消息"
       - "这是第三条预设消息"
     interval_ms: 2000    # 每条消息间隔2秒
     daily_schedule:
-      - "09:00"          # 每天早上9点发送一轮
-      - "14:00"          # 下午2点发送一轮
-      - "20:00"         # 晚上8点发送一轮
+      - "16:02"          # 每天早上9点发送一轮
+      - "16:03"          # 每天早上9点发送一轮
+      - "16:04"          # 下午2点发送一轮
+      - "16:05"         # 晚上8点发送一轮
 
-  - group_ids:
-      - 3456789012  # 另一个群组ID
-    messages:
-      - "这是给其他群组的消息"
-      - "这是第二条消息"
-    interval_ms: 3000    # 每条消息间隔3秒
-    daily_schedule:
-      - "10:30"
-      - "16:30"
 
 
   #149.154.167.50:443

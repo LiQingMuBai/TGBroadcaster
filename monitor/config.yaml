@@ -1,0 +1,15 @@
+telegram:
+  api_id:                  # 替换为你的API ID
+  api_hash: ""    # 替换为你的API Hash
+
+schedule:
+  times:
+    - "12:00"                  # 中午12点
+    - "13:00"                  # 下午1点
+    - "14:00"                  # 下午2点
+  message: "这是定时发送的消息"  # 默认消息
+
+groups:
+  - "group_id_1"               # 第一个群组ID或用户名
+  - "group_id_2"               # 第二个群组ID或用户名
+  - "@group_username_3"        # 群组用户名(带@)
