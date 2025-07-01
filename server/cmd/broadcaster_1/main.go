@@ -35,6 +35,7 @@ type GroupTracker struct {
 }
 
 var (
+	ctx          = context.Background()
 	config       Config
 	client       *telegram.Client
 	aiClient     *openai.Client
@@ -45,6 +46,75 @@ var (
 	}
 )
 
+// 获取用户加入的所有群组/频道
+func getAllGroups(ctx context.Context, api *tg.Client) ([]tg.ChatClass, error) {
+	var (
+		groups []tg.ChatClass
+		offset int
+		limit  = 100
+	)
+
+	for {
+		// 分页获取对话列表
+		dialogs, err := api.MessagesGetDialogs(ctx, &tg.MessagesGetDialogsRequest{
+			OffsetPeer: &tg.InputPeerEmpty{},
+			Limit:      limit,
+			OffsetDate: offset,
+		})
+		if err != nil {
+			return nil, fmt.Errorf("获取对话失败: %w", err)
+		}
+
+		switch d := dialogs.(type) {
+		case *tg.MessagesDialogs:
+			// 提取群组
+			for _, chat := range d.Chats {
+				if isGroup(chat) {
+					groups = append(groups, chat)
+				}
+			}
+			return groups, nil
+
+		case *tg.MessagesDialogsSlice:
+			// 处理分页数据
+			for _, chat := range d.Chats {
+				if isGroup(chat) {
+					groups = append(groups, chat)
+				}
+			}
+
+			if len(d.Dialogs) < limit {
+				return groups, nil
+			}
+			offset = d.Dialogs[len(d.Dialogs)-1].GetTopMessage()
+
+		default:
+			return nil, fmt.Errorf("未知的响应类型: %T", dialogs)
+		}
+	}
+}
+
+// 判断是否是群组/频道
+func isGroup(chat tg.ChatClass) bool {
+	switch chat.(type) {
+	case *tg.Chat, *tg.Channel:
+		return true
+	default:
+		return false
+	}
+}
+
+// 获取真实ID (处理超级群组的-100前缀)
+func getRealID(chat tg.ChatClass) int64 {
+	switch c := chat.(type) {
+	case *tg.Chat:
+		return c.ID
+	case *tg.Channel:
+		return c.ID
+	default:
+		return 0
+	}
+}
 func main() {
 	if err := loadConfig("config.yaml"); err != nil {
 		log.Fatalf("加载配置失败: %v", err)
@@ -159,7 +229,7 @@ func runMonitor(ctx context.Context) error {
 				}
 			}
 
-			time.Sleep(1 * time.Second)
+			time.Sleep(10 * time.Second)
 		}
 	}
 }
@@ -257,7 +327,7 @@ func sendAIResponse(ctx context.Context, chatID int64) error {
 type TermAuth struct{ phone string }
 
 func (t TermAuth) Phone(_ context.Context) (string, error)    { return t.phone, nil }
-func (t TermAuth) Password(_ context.Context) (string, error) { return "", nil }
+func (t TermAuth) Password(_ context.Context) (string, error) { return "cywhoyi1989", nil }
 func (t TermAuth) Code(_ context.Context, _ *tg.AuthSentCode) (string, error) {
 	fmt.Print("请输入验证码: ")
 	var code string

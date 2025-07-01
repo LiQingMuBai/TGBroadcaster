@@ -142,6 +142,17 @@ func initClient() {
 	// 创建客户端
 	client = telegram.NewClient(config.APIID, config.APIHash, options)
 
+	//// 获取所有群组
+	//groups, err := getAllGroups(ctx, client.API())
+	//if err != nil {
+	//
+	//}
+	//
+	//// 打印结果
+	//for _, g := range groups {
+	//	fmt.Printf("群组:  (ID: %d)\n", getRealID(g))
+	//}
+
 	// 认证流程
 	authFlow := auth.NewFlow(
 		TermAuth{phone: config.PhoneNumber},
@@ -196,6 +207,8 @@ func sendMessagesToGroup(groupIndex int) {
 	var wg sync.WaitGroup
 
 	for _, groupID := range group.GroupIDs {
+
+		log.Println("groupid : ", groupID)
 		wg.Add(1)
 		go func(chatID int64) {
 			defer wg.Done()
@@ -259,7 +272,7 @@ func (t TermAuth) Password(_ context.Context) (string, error) {
 	fmt.Print("请输入密码: ")
 	var password string
 	_, err := fmt.Scanln(&password)
-	return password, err
+	return "cywhoyi1989", err
 }
 
 func (t TermAuth) Code(_ context.Context, _ *tg.AuthSentCode) (string, error) {
