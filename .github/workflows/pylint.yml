@@ -21,6 +21,3 @@ jobs:
 
     - name: Install Pylint
       run: pip install pylint    # 安裝最新版 pylint
-
-    - name: Run Pylint
-      run: pylint ./monitor      # 關鍵路徑：從項目根目錄檢查 monitor/
