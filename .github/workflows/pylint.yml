@@ -16,8 +16,10 @@ jobs:
         python-version: ${{ matrix.python-version }}
     - name: Install dependencies
       run: |
+        cd monitor
         python -m pip install --upgrade pip
         pip install pylint
     - name: Analysing the code with pylint
       run: |
+        cd monitor
         pylint $(git ls-files '*.py')
