@@ -1,0 +1,26 @@
+name: Pylint Code Check
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  lint:
+    name: Run Pylint on monitor/
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4  # 檢出代碼
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.x"    # 自動使用最新的 3.x 版本
+
+    - name: Install Pylint
+      run: pip install pylint    # 安裝最新版 pylint
+
+    - name: Run Pylint
+      run: pylint ./monitor      # 關鍵路徑：從項目根目錄檢查 monitor/
